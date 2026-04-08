@@ -1,0 +1,5 @@
+{
+  "name": "VoltVigil: Power Grid Simulator",
+  "description": "A comprehensive power-flow and thermal simulation system for medium-voltage distribution networks, featuring grid schematic visualization, transformer health monitoring, and interactive load adjustment.",
+  "requestFramePermissions": []
+}
